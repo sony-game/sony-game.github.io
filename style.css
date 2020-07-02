@@ -1,0 +1,26 @@
+@media only screen and (min-width: 668px) {
+    .carousel-item{
+        max-height: 400px;
+    }
+}
+nav{
+    background-color: rgba(128, 128, 128, 0.705);
+}
+.photo{
+    width: 100%;
+    font-family: 'Bangers', cursive;
+}
+.container{
+    background-color: rgba(128, 128, 128, 0.24);
+    box-shadow: gray 5px 5px 5px;
+}
+.goga{
+    margin-top: 3rem;
+}
+.goga2{
+    background-color: grey;
+}
+.yan{
+    font-family: 'Bangers', cursive;
+}
+
